@@ -2,21 +2,20 @@
 
 I am a **Computer Science (AI)** student at **Asia Pacific University (APU)**, bridging the gap between **Artificial Intelligence** and **Offensive Security**. I build secure, intelligent systems and break them to make them stronger.
 
-- [cite_start]🎓 **Education:** Year 2, Semester 2 AI Student at APU[cite: 3, 19].
-- [cite_start]🏆 **Achievements:** - **Winner** of Taylor's University Hackathon (Project "Text Flow")[cite: 28].
-  - [cite_start]**Top 25 Global Rank** at Cybergon CTF 2024[cite: 25, 26].
-  - **GED Scorer:** 642 points.
-- [cite_start]📜 **Certifications:** eJPT (Junior Penetration Tester), Google Cybersecurity[cite: 11, 21].
+- 🎓 **Education:** Year 2, Semester 2 AI Student at APU[cite: 3, 19].
+- 🏆 **Achievements:** - **Winner** of Taylor's University Hackathon (Project "Text Flow")[cite: 28].
+- **Top 25 Global Rank** at Cybergon CTF 2024[cite: 25, 26].
+- 📜 **Certifications:** eJPT (Junior Penetration Tester), Google Cybersecurity[cite: 11, 21].
 
 ---
 
 - 👀 **I’m interested in ...**
-  - [cite_start]**Offensive Security:** Web Exploitation, Network Penetration Testing, and CTFs[cite: 4, 32].
+  -**Offensive Security:** Web Exploitation, Network Penetration Testing, and CTFs[cite: 4, 32].
   - **Generative AI:** Building RAG applications using AWS Bedrock and LLMs.
   - **Cloud Engineering:** Deploying scalable apps on AWS (EC2, S3, IAM).
 
 - 🌱 **I’m currently learning ...**
-  - [cite_start]Advanced **Network Forensics** and Packet Analysis[cite: 4, 31].
+  - Advanced **Network Forensics** and Packet Analysis[cite: 4, 31].
   - **Malware Analysis** and Reverse Engineering.
   - Enterprise ERP development with **.NET** and **C#**.
 
@@ -26,7 +25,7 @@ I am a **Computer Science (AI)** student at **Asia Pacific University (APU)**, b
   - Capture The Flag (CTF) teams for international competitions.
 
 - 📫 **How to reach me ...**
-  - [cite_start]**Email:** [htikelinn00971@gmail.com](mailto:htikelinn00971@gmail.com) [cite: 8]
+  - **Email:** [htikelinn00971@gmail.com](mailto:htikelinn00971@gmail.com) [cite: 8]
   - **LinkedIn:** [Lin Htike]([https://www.linkedin.com/](https://www.linkedin.com/in/lin-htike-488a5b217/)) 
 
 ---
