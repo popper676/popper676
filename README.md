@@ -27,7 +27,7 @@ I am a **Computer Science (AI)** student at **Asia Pacific University (APU)**, b
 
 - 📫 **How to reach me ...**
   - [cite_start]**Email:** [htikelinn00971@gmail.com](mailto:htikelinn00971@gmail.com) [cite: 8]
-  - **LinkedIn:** [Lin Htike](https://www.linkedin.com/) *(Add your link)*
+  - **LinkedIn:** [Lin Htike]([https://www.linkedin.com/](https://www.linkedin.com/in/lin-htike-488a5b217/)) 
 
 ---
 
