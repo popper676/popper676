@@ -16,8 +16,8 @@ I am a **Computer Science (AI)** student at **Asia Pacific University (APU)**, b
 
 - 🌱 **I’m currently learning ...**
   - Advanced **Network Forensics** and Packet Analysis[cite: 4, 31].
-  - **Malware Analysis** and Reverse Engineering.
-  - Enterprise ERP development with **.NET** and **C#**.
+  - **Malware Analysis** and EWPTX
+  - Enterprise ERP development with react and node js.
 
 - 💞️ **I’m looking to collaborate on ...**
   - Open-source security tools and vulnerability scanners.
